@@ -1,0 +1,7 @@
+<meta>
+	<info author="Mcnciolas208" version="4.0." type="script" name="Jutsu Invocacion Kakashi" description="Resource del Jutsu de invocacion de Kakashi" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+  	<file src="Selloinvoc.png" />
+  	<file src="invoc.mp3" />
+</meta>
